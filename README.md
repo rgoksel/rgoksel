@@ -1,5 +1,5 @@
 ## About Me
-Hi, I'm Rabia Göksel Demiray. Recently, I'm a undergraduate electrical and electronics engineering student at Istanbul Technical University. Also, I am a cursor student at Ecole 42 Istanbul for 3 months. I'm coding in C for a while and also trying to learn digital design with verilog and vhdl. I have worked with Python and embedded C with stm32 and arduino before.
+Hi, I'm Rabia Göksel Demiray. Recently, I'm a undergraduate electronics and communication engineering student at Istanbul Technical University. Also, I am a cursor student at Ecole 42 Istanbul for 3 months. I'm coding in C for a while and also trying to learn digital design with verilog and vhdl. I have worked with Python and embedded C with stm32 and arduino before.
 
 </br>
 </br>
