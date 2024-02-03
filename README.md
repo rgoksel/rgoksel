@@ -15,7 +15,7 @@ I'm coding in C for a while and also trying to learn digital design with verilog
 | 🖥️  &nbsp; (https://github.com/rgoksel/ITU-GSTL-GEN1)
 
 
-`[itü gstl internship files and self leaning projects]`
+`[itü gstl internship files and self learning projects]`
 | 🖥️  &nbsp; (https://github.com/rgoksel/Digital-Design)
 
 
