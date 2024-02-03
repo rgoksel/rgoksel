@@ -12,11 +12,11 @@ I'm coding in C for a while and also trying to learn digital design with verilog
 ## Digital Design
 
 `ITU GSTL GEN1`
-| 🖥️  &nbsp; [ITU - GSTL - GEN1] (https://github.com/rgoksel/ITU-GSTL-GEN1)
+| 🖥️  &nbsp; (https://github.com/rgoksel/ITU-GSTL-GEN1)
 
 
-`self learning`
-| 🖥️  &nbsp; [itü gstl internship files and self leaning projects] (https://github.com/rgoksel/Digital-Design)
+`[itü gstl internship files and self leaning projects]`
+| 🖥️  &nbsp; (https://github.com/rgoksel/Digital-Design)
 
 
 <br>
