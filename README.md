@@ -5,6 +5,18 @@ Hi, I'm Rabia Göksel Demiray. Recently, I'm a undergraduate electronics and com
 </br>
 </br>
 
+## Digital Design
+
+'ITU GSTL GEN1'
+| 🖥️  &nbsp; [ITU - GSTL - GEN1] (https://github.com/rgoksel/ITU-GSTL-GEN1)
+
+
+'self learning'
+| 🖥️  &nbsp; [itü gstl internship files and self leaning projects] (https://github.com/rgoksel/Digital-Design)
+
+
+<br>
+
 ## 42 Common Core Student
 
 `From Libft To Minishell`
