@@ -34,9 +34,9 @@ I'm coding in C for a while and also trying to learn digital design with verilog
 
 <br>
 
-> Languages - C | C++ | VHDL| Verilog | Bash | HTML | Python | Embedded C
+> Languages ==>>  C | C++ | Verilog | VHDL |  Matlab / Simulink | Bash | HTML | Python | Embedded C |
 
-> Tools - Git | GitHub | Vim | Visual Studio | Visual Studio Code 
+> Tools ==>>  Git | GitHub | Vim | Visual Studio | Visual Studio Code 
 
 <br>
 
@@ -47,6 +47,10 @@ I'm coding in C for a while and also trying to learn digital design with verilog
 > VHDL
 
 > C
+
+> C++
+
+> Matlab / Simulink 
 
 
 <br>
