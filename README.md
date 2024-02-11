@@ -5,6 +5,9 @@ Recently, I'm a undergraduate electronics and communication engineering student 
 
 I'm coding in C for a while and also trying to learn digital design with verilog and vhdl. I have worked with Python and embedded C with stm32 and arduino before.
 
+
+my cv ==>>  https://github.com/rgoksel/rgoksel/blob/main/g%C3%B6ksel%20-cv.pdf
+
 </br>
 </br>
 </br>
