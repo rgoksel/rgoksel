@@ -6,7 +6,7 @@ Recently, I'm a undergraduate Electronics and Communication engineering student 
 I'm coding in C for a while and also trying to learn digital design with Verilog and VHDL. I have worked with Python and embedded C with stm32 and arduino before.
 
 
-my cv ==>>  https://github.com/rgoksel/rgoksel/blob/main/g%C3%B6ksel%20-cv.pdf
+my cv ==>>  [cv](https://github.com/rgoksel/rgoksel/blob/main/rgd-%20cvson.pdf)
 
 </br>
 </br>
