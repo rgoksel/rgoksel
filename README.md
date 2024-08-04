@@ -1,7 +1,7 @@
 ## About Me
 Hi, I'm Rabia Göksel Demiray. 
 
-Recently, I'm a undergraduate Electronics and Communication engineering student at Istanbul Technical University. Also, I am a main course student at Ecole 42 Istanbul for 6 months. 
+Recently, I'm a undergraduate Electronics and Communication engineering student at Istanbul Technical University. Also, I am a main course student at Ecole 42 Istanbul for 1 year. 
 
 I'm coding in C for a while and also trying to learn digital design with Verilog and VHDL. I have worked with Python and embedded C with stm32 and arduino before.
 
