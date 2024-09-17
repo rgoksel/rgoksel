@@ -22,11 +22,9 @@ My CV ==>>  [CV](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6kse
 🖥️ `single cycle RISC-V 32I`
 | &nbsp; [my_first_core](https://github.com/rgoksel/single-cycle-RV32I-Core)
 
-🖥️ `ITU GSTL GEN1`
+🖥️ `ITU GSTL GEN1 and self-learning projects`
 | &nbsp; [Projects](https://github.com/rgoksel/ITU-GSTL-GEN1)
 
-🖥️  `[self learning digital design projects]`
-| &nbsp; [Projects](https://github.com/rgoksel/Digital-Design)
 
 
 ## 42 Common Core Student
