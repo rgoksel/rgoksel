@@ -13,9 +13,14 @@ my cv ==>>  [cv](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6kse
 
 ## Digital Design
 
+🖥️ `5 stage RISC-V 32I`
+| &nbsp; [Projects](https://github.com/rgoksel/RV32I-Core)
+
+🖥️ `single cycle RISC-V 32I`
+| &nbsp; [Projects](https://github.com/rgoksel/single-cycle-RV32I-Core)
+
 🖥️ `ITU GSTL GEN1`
 | &nbsp; [Projects](https://github.com/rgoksel/ITU-GSTL-GEN1)
-
 
 🖥️  `[self learning digital design projects]`
 | &nbsp; [Projects](https://github.com/rgoksel/Digital-Design)
