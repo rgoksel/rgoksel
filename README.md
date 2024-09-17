@@ -17,7 +17,7 @@ my cv ==>>  [cv](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6kse
 | &nbsp; [Projects](https://github.com/rgoksel/ITU-GSTL-GEN1)
 
 
-🖥️  `[itü gstl internship files and self learning projects]`
+🖥️  `[self learning digital design projects]`
 | &nbsp; [Projects](https://github.com/rgoksel/Digital-Design)
 
 
