@@ -9,7 +9,6 @@ I'm coding in Verilog and C. Also trying to learn digital system design and FPGA
 my cv ==>>  [cv](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6ksel%20demiray%20cv.pdf)
 
 </br>
-</br>
 
 ## Digital Design
 
