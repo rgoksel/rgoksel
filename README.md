@@ -1,22 +1,22 @@
 ## About Me
 Hi, I'm Rabia Göksel Demiray. 
 
-Recently, I'm a undergraduate Electronics and Communication engineering student at Istanbul Technical University. Also, I am a main course student at Ecole 42 Istanbul for 1 year. 
+I'm a senior undergraduate Electronics and Communication engineering student at Istanbul Technical University. Also, I am a traine at Ecole 42 Istanbul for about 1 year. 
 
-I'm coding in Verilog and C. Also trying to learn digital system design and FPGA . I have worked with Python and embedded C with stm32 and arduino before.
+I'm coding in Verilog and C. Also I'm trying to learn digital system design, RISC-V and FPGA. I did my internships about digital design. First one was about FPGA and Verilog. The second was about RISC-V. In Ecole 42, I learned everything about software, how to develop algorithms, and how to write the code of that algorithm.
 
 
-my cv ==>>  [cv](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6ksel%20demiray%20cv.pdf)
+My CV ==>>  [CV](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6ksel%20demiray%20cv.pdf)
 
 </br>
 
 ## Digital Design
 
 🖥️ `5 stage RISC-V 32I`
-| &nbsp; [Projects](https://github.com/rgoksel/RV32I-Core)
+| &nbsp; [RV32I](https://github.com/rgoksel/RV32I-Core)
 
 🖥️ `single cycle RISC-V 32I`
-| &nbsp; [Projects](https://github.com/rgoksel/single-cycle-RV32I-Core)
+| &nbsp; [my_first_core](https://github.com/rgoksel/single-cycle-RV32I-Core)
 
 🖥️ `ITU GSTL GEN1`
 | &nbsp; [Projects](https://github.com/rgoksel/ITU-GSTL-GEN1)
@@ -24,8 +24,6 @@ my cv ==>>  [cv](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6kse
 🖥️  `[self learning digital design projects]`
 | &nbsp; [Projects](https://github.com/rgoksel/Digital-Design)
 
-
-<br>
 
 ## 42 Common Core Student
 
@@ -42,7 +40,7 @@ my cv ==>>  [cv](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6kse
 
 > Languages ==>>  C | C++ | Verilog | VHDL |  Matlab / Simulink | Bash | HTML | Python | Embedded C |
 
-> Tools ==>>  Git | GitHub | Vim | Visual Studio | Visual Studio Code 
+> Tools ==>>  Vivado | Quartus | Matlab | Git | GitHub | Vim | Visual Studio Code | Bash
 
 <br>
 
