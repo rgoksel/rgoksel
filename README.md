@@ -43,9 +43,9 @@ My CV ==>>  [CV](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6kse
 
 <br>
 
-> Languages ==>>  C | C++ | Verilog | VHDL |  Matlab / Simulink | Bash | HTML | Python | Embedded C |
+> Languages ==>>  Verilog | SystemVerilog | C | C++ | VHDL |  Matlab | HTML | Python | Embedded C |
 
-> Tools ==>>  Vivado | Quartus | Matlab | Git | GitHub | Vim | Visual Studio Code | Bash
+> Tools ==>>  Vivado | Quartus | Matlab | Git | GitHub | Vim | VS Code | Bash
 
 <br>
 
@@ -53,7 +53,7 @@ My CV ==>>  [CV](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6kse
 ## 🌱 Currently Learning
 > Verilog
 
-> VHDL
+> SystemVerilog
 
 > C
 
