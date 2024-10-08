@@ -32,7 +32,7 @@ My CV ==>>  [CV](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6kse
 
 ## 42 Common Core Student
 
- 🖥️ `From Libft To Minishell`
+ 🖥️ `From Libft to Cub3D`
 | &nbsp; [Common Core Projects](https://github.com/rgoksel/42/blob/main/README.md)|
 
 <br>
