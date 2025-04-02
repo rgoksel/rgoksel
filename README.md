@@ -1,14 +1,15 @@
 ## About Me
 Hi, I'm Rabia Göksel Demiray. 
 
-I'm a senior undergraduate Electronics and Communication engineering student at Istanbul Technical University. Also, I am a traine at Ecole 42 Istanbul for about 1 year. 
+I'm a senior undergraduate Electronics and Communication engineering student at Istanbul Technical University. Also, I am a digital design engineer in TÜBİTAK BİLGEM tütel.
+I was a traninee at Ecole42.
 
-I'm coding in Verilog and C. Also I'm trying to learn digital system design, RISC-V and FPGA.
+I design my modules with Verilog/SysyemVerilog, and I am coding my programs in C. I'm trying to improve myself in digital system design, RISC-V and FPGA.
 
-I did my internships about digital design. First one was about FPGA and VHDL, also I worked on making a Matlab project work with VHDL on FPGA. The second was about RISC-V with Verilog.
-
+I did my internships about digital design. I have learned about FPGA, VHDL, Verilog, RISC-V and Matlab in these internships.
 In Ecole 42, I learned everything about software, how to develop algorithms, and how to write the code of that algorithm.
 
+Now, I'm working on the design, verification, and optimization process of CPU/GPU modules.
 
 My CV ==>>  [CV](https://github.com/rgoksel/rgoksel/blob/main/rabia%20g%C3%B6ksel%20demiray%20cv.pdf)
 
